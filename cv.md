@@ -28,8 +28,8 @@ the practice of solving tasks for learning C# and practice skills work with Wind
 **Foreign language** - English (В1).
 Finished English  Streamline’s courses of Pre-Intermediate (2017) and Intermediate (2017-2018).
  
-**Additional information:**
-**Experience:**
+**Additional information:**  
+**Experience:**  
 ***From November 2012 up to the present.***
 Engineer of telecommunication in filial “Energotelecom” RUP “Brestenergo”.
 
