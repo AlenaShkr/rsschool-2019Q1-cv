@@ -7,11 +7,12 @@
 *E-mail*: alena.shkradziuk@gmail.com  
 *Mobile number*: +37533 607 62 00 (mts).  
 *Marital status*: single.  
-
+---
 ***Education:*** higher. 
 In 2011 graduated Belorussian State University of Informatics and Radioelectronics, the faculty of Telecommunication, specialization “Multichannel systems of telecommunication”.
  
-***Profession skills:***  - knowledge of Javascript, HTML, CSS, С#;
+***Profession skills:*** 
+ - knowledge of Javascript, HTML, CSS, С#;
 - skill to deal with VSCode, Visual Studio 2010 (Windows Forms, Web Forms);
 - the basic skills of work with Webpack;
 - knowledge and practice object-oriented programming (ООP);
@@ -20,7 +21,7 @@ In 2011 graduated Belorussian State University of Informatics and Radioelectroni
 
 ***Courses:***  
 From September to December 2018 took part in the course “Javascript/Front-end” of Rolling Scope School:  
-the practice of solving tasks for learning Javascript, markup own resume page,  performing the task (develop tooltip with  notification on a page) for getting practice skills working with DOM events, performing the task (develop the page of search videos from the Youtube) for  practice work with API.  
+the practice of solving tasks for learning Javascript, markup own [resume page](https://alenashkr.github.io/rsschool-codejam1-cv/),  performing the task ([develop tooltip with  notification](https://github.com/AlenaShkr/alenashkr-2018Q3/tree/codejam-dom) on a page) for getting practice skills working with DOM events, performing the task (develop the [page of search videos from the Youtube](../youtube-client)) for  practice work with API.  
 From March to May 2014 – course of EPAM (c.Brest) “Web-developing ASP MVC .Net”:  
 the practice of solving tasks for learning C# and practice skills work with Windows Form, Web Form, writing simple unit-tests.
 
