@@ -8,10 +8,10 @@
 *Mobile number*: +37533 607 62 00 (mts).  
 *Marital status*: single.  
 
-***Education:*** higher. 
+***Education:*** higher.   
 In 2011 graduated Belorussian State University of Informatics and Radioelectronics, the faculty of Telecommunication, specialization “Multichannel systems of telecommunication”.
  
-***Profession skills:***
+***Profession skills:***  
 - knowledge of Javascript, HTML, CSS, С#;
 - skill to deal with VSCode, Visual Studio 2010 (Windows Forms, Web Forms);
 - the basic skills of work with Webpack;
@@ -19,13 +19,13 @@ In 2011 graduated Belorussian State University of Informatics and Radioelectroni
 - work with the version control system (Git);
 - knowledge basics of the data network.
 
-***Courses:***
+***Courses:***  
 From September to December 2018 took part in the course “Javascript/Front-end” of Rolling Scope School:  
 the practice of solving tasks for learning Javascript, markup own resume page,  performing the task (develop tooltip with  notification on a page) for getting practice skills working with DOM events, performing the task (develop the page of search videos from the Youtube) for  practice work with API.  
 From March to May 2014 – course of EPAM (c.Brest) “Web-developing ASP MVC .Net”:  
 the practice of solving tasks for learning C# and practice skills work with Windows Form, Web Form, writing simple unit-tests.
 
-***Foreign language*** - English (В1).
+***Foreign language*** - English (В1).  
 Finished English  Streamline’s courses of Pre-Intermediate (2017) and Intermediate (2017-2018).
  
 ***Additional information:***  
