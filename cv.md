@@ -8,11 +8,10 @@
 *Mobile number*: +37533 607 62 00 (mts).  
 *Marital status*: single.  
 
-***Education:*** higher.   
+***Education:*** higher. 
 In 2011 graduated Belorussian State University of Informatics and Radioelectronics, the faculty of Telecommunication, specialization “Multichannel systems of telecommunication”.
  
-***Profession skills:***  
-- knowledge of Javascript, HTML, CSS, С#;
+***Profession skills:***  - knowledge of Javascript, HTML, CSS, С#;
 - skill to deal with VSCode, Visual Studio 2010 (Windows Forms, Web Forms);
 - the basic skills of work with Webpack;
 - knowledge and practice object-oriented programming (ООP);
