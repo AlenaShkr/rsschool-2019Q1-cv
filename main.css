@@ -92,13 +92,13 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding: 15px;
+  padding: 15px 15px 25px;
+
+  font-size: 20px;
+  text-align: justify;
 
   border: rgb(24, 26, 27) 1px solid;
   box-shadow:  0 10px 10px black;
-
-  font-size: 20px;
-  text-align: justify
 }
 
 .maincontent h3, h4 {
@@ -140,10 +140,19 @@ h3 {
   color: rgb(228, 225, 225);
 }
 
-.experiance p span {
-  display: block;
+.experiance  span {
+
+  margin: 0;
 
   font-weight: bold;
+}
+
+.responsibilities {
+  margin-bottom: 10px;
+}
+
+.occupation {
+  margin-bottom: 10px;
 }
 
 .qualities h4 {
@@ -162,3 +171,8 @@ h3 {
 
   font-style: italic;
 }
+
+.experiance :last-child {
+  margin-bottom: 20px;
+}
+
