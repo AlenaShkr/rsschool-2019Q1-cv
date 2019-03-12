@@ -18,9 +18,15 @@ body {
   max-width: 1024px;
   margin:  0 auto;
   padding: 20px;
+
+  font-size: 20px;
 }
 
-h2, .purpose {
+.header h1 {
+  font-size: 28px;
+}
+
+.header h1, .purpose {
   text-align: center;
 }
 
@@ -55,7 +61,7 @@ h2, .purpose {
   margin: 0 8px 10px 20px;
 }
 
-.shortinformation P span {
+.shortinformation p span {
   font-style: italic;
 }
 
@@ -69,13 +75,16 @@ h2, .purpose {
   text-align: justify
 }
 
-.education h3 {
+.education h3, .foreignlanguages h3 {
   display: inline-block;
 }
 
 h3 {
   margin-top: 0;
   margin-bottom: 0;
+
+  font-style: italic;
+  font-weight: bold;
 }
 
 .skills ul {
@@ -85,4 +94,24 @@ h3 {
 
 .skills li::before {
   content: "- ";
+}
+
+.experiance p span {
+  display: block;
+
+  font-weight: bold;
+}
+
+.qualities h4 {
+  display: inline;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.qualities p {
+  display: inline;
+}
+
+.experiance h4 {
+  font-style: italic;
 }
