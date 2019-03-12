@@ -67,9 +67,15 @@ body {
 }
 
 .shortinformation img {
-  width: 250px;
-  height: 350px;
-  padding: 35px;
+  width: 200px;
+  height: 291px;
+  margin: 25px auto;
+
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
 }
 
 .shortinformation p {
