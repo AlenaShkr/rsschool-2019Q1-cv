@@ -1,0 +1,178 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
+  color: rgb(150, 149, 149);
+
+  background: rgb(39, 40, 41);
+}
+
+.header {
+  width: 100%;
+}
+
+.container {
+  max-width: 1024px;
+  margin:  0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  font-size: 20px;
+}
+
+.header h1 {
+  margin-bottom: 5px;
+
+  font-size: 38px;
+}
+
+.purpose {
+  margin-top:0;
+}
+
+.header h1, .purpose {
+  text-align: start;
+}
+
+.purpose span {
+  font-style: italic;
+}
+
+.header hr {
+  height: 2px;
+
+  background: rgb(90, 197, 230);
+}
+
+.content .container {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 25px;
+}
+
+.shortinformation {
+  display: flex;
+  flex-direction: column;
+
+  background: rgb(90, 197, 230);
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  box-shadow: 0 10px 10px black;
+}
+
+.shortinformation img {
+  width: 200px;
+  height: 291px;
+  margin: 25px auto;
+
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}
+
+.shortinformation p {
+  margin: 0 8px 10px 20px;
+
+  color: rgb(39, 40, 41);
+}
+
+.shortinformation p span {
+  font-style: italic;
+}
+
+.maincontent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 15px 15px 25px;
+
+  font-size: 20px;
+  text-align: justify;
+
+  border: rgb(24, 26, 27) 1px solid;
+  box-shadow:  0 10px 10px black;
+}
+
+.maincontent h3, h4 {
+  margin-bottom: 5px;
+}
+
+.maincontent p, ul {
+  margin-top: 0;
+}
+
+.education h3, .foreignlanguages h3 {
+  display: inline-block;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(90, 197, 230);
+}
+
+.skills ul {
+  padding-inline-start: 10px;
+
+  list-style-type: none;
+}
+
+.skills li::before {
+  content: "- ";
+}
+
+.courses a {
+  color: rgb(150, 149, 149);
+}
+
+.courses a:hover {
+  color: rgb(228, 225, 225);
+}
+
+.experiance  span {
+
+  margin: 0;
+
+  font-weight: bold;
+}
+
+.responsibilities {
+  margin-bottom: 10px;
+}
+
+.occupation {
+  margin-bottom: 10px;
+}
+
+.qualities h4 {
+  display: inline;
+
+  font-style: italic;
+  font-weight: bold;
+}
+
+.qualities p {
+  display: inline;
+}
+
+.experiance h4 {
+  margin-top: 5px;
+
+  font-style: italic;
+}
+
+.experiance :last-child {
+  margin-bottom: 20px;
+}
+
