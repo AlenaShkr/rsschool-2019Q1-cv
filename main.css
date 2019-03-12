@@ -17,7 +17,8 @@ body {
 .container {
   max-width: 1024px;
   margin:  0 auto;
-  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 
   font-size: 20px;
 }
@@ -69,10 +70,18 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding: 50px;
+  padding: 15px;
 
   font-size: 20px;
   text-align: justify
+}
+
+.maincontent h3, h4 {
+  margin-bottom: 5px;
+}
+
+.maincontent p, ul {
+  margin-top: 0;
 }
 
 .education h3, .foreignlanguages h3 {
@@ -88,8 +97,9 @@ h3 {
 }
 
 .skills ul {
-  list-style-type: none;
   padding-inline-start: 10px;
+
+  list-style-type: none;
 }
 
 .skills li::before {
@@ -104,6 +114,7 @@ h3 {
 
 .qualities h4 {
   display: inline;
+
   font-style: italic;
   font-weight: bold;
 }
@@ -113,5 +124,7 @@ h3 {
 }
 
 .experiance h4 {
+  margin-top: 5px;
+
   font-style: italic;
 }
