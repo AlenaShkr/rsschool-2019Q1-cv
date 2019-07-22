@@ -3,7 +3,7 @@
 }
 
 body {
-  font-size: 16px;
+  font-size: 24px;
   font-family: 'Times New Roman', Arial, Helvetica, sans-serif;
   color: rgb(150, 149, 149);
 
@@ -19,14 +19,10 @@ body {
   margin:  0 auto;
   padding-left: 20px;
   padding-right: 20px;
-
-  font-size: 20px;
 }
 
 .header h1 {
   margin-bottom: 5px;
-
-  font-size: 38px;
 }
 
 .purpose {
@@ -53,7 +49,7 @@ body {
   padding-bottom: 25px;
 }
 
-.shortinformation {
+.short-information {
   display: flex;
   flex-direction: column;
 
@@ -66,9 +62,9 @@ body {
   box-shadow: 0 10px 10px black;
 }
 
-.shortinformation img {
-  width: 200px;
-  height: 291px;
+.short-information img {
+  width: 205px;
+  height: 305px;
   margin: 25px auto;
 
   border-radius: 3px;
@@ -78,45 +74,46 @@ body {
   -o-border-radius: 3px;
 }
 
-.shortinformation p {
+.short-information p {
   margin: 0 8px 10px 20px;
 
   color: rgb(39, 40, 41);
 }
 
-.shortinformation p span {
+.short-information p>span {
   font-style: italic;
 }
 
-.maincontent {
+.main-content {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   padding: 15px 15px 25px;
 
-  font-size: 20px;
   text-align: justify;
 
   border: rgb(24, 26, 27) 1px solid;
   box-shadow:  0 10px 10px black;
 }
 
-.maincontent h3, h4 {
+.main-content h2, h3 {
   margin-bottom: 5px;
 }
 
-.maincontent p, ul {
+.main-content p, ul {
   margin-top: 0;
 }
 
-.education h3, .foreignlanguages h3 {
+.education h2,
+.foreign-languages h2 {
   display: inline-block;
 }
 
-h3 {
+h2 {
   margin-top: 0;
   margin-bottom: 0;
 
+  font-size: 1.3em;
   font-style: italic;
   font-weight: bold;
   color: rgb(90, 197, 230);
@@ -140,8 +137,7 @@ h3 {
   color: rgb(228, 225, 225);
 }
 
-.experiance  span {
-
+.experiance span {
   margin: 0;
 
   font-weight: bold;
@@ -155,7 +151,7 @@ h3 {
   margin-bottom: 10px;
 }
 
-.qualities h4 {
+.qualities h3 {
   display: inline;
 
   font-style: italic;
@@ -166,7 +162,7 @@ h3 {
   display: inline;
 }
 
-.experiance h4 {
+.experiance h3 {
   margin-top: 5px;
 
   font-style: italic;
